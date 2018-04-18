@@ -12,4 +12,6 @@ The Solace Java RTO API is a JNI-wrapped C API.  It can be used both
 Solace has the SdkPerf test tool in a variety of API flavours, and it can be used to perform latency testing.  However, the Java one uses millisecond resolution, which is not accurate enough when performing IPC latency testing.
 
 
+![alt text](https://github.com/aaron-613/solace-java-ipc-latency-tests/solace-ipc-latencies.png "Latency Graph")
+
 
